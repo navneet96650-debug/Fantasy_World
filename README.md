@@ -1,3 +1,17 @@
-# Fantasy_World
-Fantasy World - A creative development project exploring, programming, design, and interactive fantasy concepts.
-Author - Navneet Gupta
+# Fantasy World 🌎✨
+
+A creative programming project exploring development, design, and interactive concepts.
+
+## Features
+- Calculator program (Python)
+- Web page design (HTML)
+- Machine Learning experiments (Jupyter Notebook)
+
+## Technologies Used
+- Python
+- HTML
+- Jupyter Notebook
+- AI/ML concepts
+
+## Author
+Navneet Gupta
